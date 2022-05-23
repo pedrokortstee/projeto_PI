@@ -18,9 +18,9 @@ Vídeo demonstrativo anexo na plataforma do Blackboard
 
 
 Integrantes do grupo:
-Jessica Nadia Queiroz Toledo
-Lucas Santos de Moura
-Matheus Costa Barboza
-Patrícia Rodrigues Maldonado
-Pedro Henrique Kortstee Simões
-Rafael Byunghak Kim
+- Jessica Nadia Queiroz Toledo
+- Lucas Santos de Moura
+- Matheus Costa Barboza
+- Patrícia Rodrigues Maldonado
+- Pedro Henrique Kortstee Simões
+- Rafael Byunghak Kim
