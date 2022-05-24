@@ -14,7 +14,8 @@ Processo para agendamento de uma consulta com um psicólogo.
 - Após a confirmação do agendamento, para retornar à pagina inicial, clicar no botão "Home".
 
 
-Vídeo demonstrativo anexo na plataforma do Blackboard
+Link do vídeo demonstrativo
+https://youtu.be/VHO9MKfW-Lc
 
 
 
